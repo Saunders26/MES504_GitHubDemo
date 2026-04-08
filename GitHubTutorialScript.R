@@ -1,6 +1,6 @@
 # Save this R script as a new file: "GitHubTutorialScript_YOURNAME.R"
 
-#INSERT YOUR NAME HERE
+#INSERT YOUR NAME HERE Savanna Saunders 
 #INSERT DATE HERE
 
 #clear my workspace
